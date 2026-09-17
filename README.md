@@ -16,6 +16,6 @@ The aim is investigating linear Magnetohydrodynamic waves within a magnetic flux
 * **Core competencies: **Applied Mathematics, Magnetohydrodynamics(MHD), Numerical Simulations, Complex Modeling
 
 ## Repository Contents:
-* '': Jupyter Notebook containing the numerical implementations
+* 'Waves and Instabilities Numerical Solver.ipynb': Jupyter Notebook containing the numerical implementations
 * '': report containing the physical assumptions, mathematical proofs and analysis of the results
 
