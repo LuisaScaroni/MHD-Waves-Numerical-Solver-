@@ -11,11 +11,11 @@ The aim is investigating linear Magnetohydrodynamic waves within a magnetic flux
 * **Eigenfunction Visualization:**
 
 ## Tools:
-* **Language: **Python
-* **Libraries: **'numpy', 'scipy', 'matplotlib'
-* **Core competencies: **Applied Mathematics, Magnetohydrodynamics(MHD), Numerical Simulations, Complex Modeling
+* **Language:** Python
+* **Libraries:** `numpy`, `scipy`, `matplotlib`
+* **Core competencies:** Applied Mathematics, Magnetohydrodynamics(MHD), Numerical Simulations, Complex Modeling
 
 ## Repository Contents:
-* 'Waves and Instabilities Numerical Solver.ipynb': Jupyter Notebook containing the numerical implementations
-* '': report containing the physical assumptions, mathematical proofs and analysis of the results
+* `Waves and Instabilities Numerical Solver.ipynb`: Jupyter Notebook containing the numerical implementations
+* `MHD Waves and Instabilities numerical derivations.pdf`: report containing the physical assumptions, mathematical proofs and analysis of the results
 
